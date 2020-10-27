@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="convertText">Convert</string>
+    <string name="toCTA">↓</string>
+    <string name="fromHint">Enter Amount</string>
+    <string name="toHint">Press Convert</string>
+
+    <string-array name="currency_options1">
+        <item>USD</item>
+        <item>CHF</item>
+        <item>CNY</item>
+        <item>CZK</item>
+        <item>DKK</item>
+        <item>GBP</item>
+        <item>AUD</item>
+        <item>CAD</item>
+        <item>EUR</item>
+        <item>GBP</item>
+    </string-array>
+    <string-array name="currency_options2">
+        <item>EUR</item>
+        <item>USD</item>
+        <item>CHF</item>
+        <item>CNY</item>
+        <item>CZK</item>
+        <item>DKK</item>
+        <item>GBP</item>
+        <item>AUD</item>
+        <item>CAD</item>
+        <item>GBP</item>
+    </string-array>
+
+
+
+
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
